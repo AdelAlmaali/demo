@@ -1,4 +1,9 @@
 {
+  "users": [
+    { "id": 1, "name":"Figa", "surname":"Deo", "login":"figa_deo","phone":"+380939393933" },
+    { "id": 2, "name":"Tira", "surname":"Start", "login":"tira_start","phone":"+380935553322" },
+    { "id": 3, "name":"Gida", "surname":"Seord", "login":"gida_seord","phone":"+380939513578" }
+     ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
